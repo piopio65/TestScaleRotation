@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Utilisateurs/jpl/Dropbox/Mes Documents/c#/TestScaleRotation/TestScaleRotation/Content/kenvector_future.spritefont</SourceFile>
+  <SourceTime>2018-10-26T02:53:13.2529336+02:00</SourceTime>
+  <DestFile>D:/Utilisateurs/jpl/Dropbox/Mes Documents/c#/TestScaleRotation/TestScaleRotation/Content/bin/Windows/Content/kenvector_future.xnb</DestFile>
+  <DestTime>2018-10-26T02:56:08.9234454+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-23T23:55:52+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-23T23:55:52+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
