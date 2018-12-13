@@ -26,7 +26,7 @@ namespace TestScaleRotation
             graphics.PreferredBackBufferWidth = 1024;
             graphics.PreferredBackBufferHeight = 800;
             Content.RootDirectory = "Content";
-            Debug.WriteLine("..Loading Game1..OK !! ");
+            Debug.WriteLine("..Game1..");
         }
 
        
